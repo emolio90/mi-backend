@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "LSGE3CBC88.com.iberostar.precms",
+        "paths": [ "/ruta/*" ]
+      }
+    ]
+  }
+}
