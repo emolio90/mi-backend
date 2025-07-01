@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "LSGE3CBC88.com.iberostar.precms",
+        "appID": "LSGE3CBC88.com.iberostar.iberostar",
         "paths": [ "/ruta/*" ]
       }
     ]
